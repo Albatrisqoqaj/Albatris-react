@@ -1,0 +1,12 @@
+{
+
+    "list":[
+
+       {"id":1, "name":"ali", "age":"20", "city":"istanbul"},
+    {"id":2, "name":"veli", "age":"25", "city":"ankara"},
+    {"id":3, "name":"deli", "age":"30", "city":"izmir"},
+    {"id":4, "name":"beli", "age":"35", "city":"bursa"}
+
+
+    ]
+}
