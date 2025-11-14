@@ -29,7 +29,7 @@ function usefetch(url) {
                   setError(err.message)
                 })
             }, 1000);
-            }, [])
+            }, )
 
   return {
 
